@@ -22,7 +22,7 @@
       "title": "Grilled Fish",
       "description": "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil.",
       "price": "10",
-      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/grilledFish.jpg?raw=true",
+      "image": "https://raw.githubusercontent.com/rJoel01/little-lemon/refs/heads/main/grilledFish.png",
       "category": "mains"
     },
     {
